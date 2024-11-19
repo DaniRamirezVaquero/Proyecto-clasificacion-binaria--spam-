@@ -2,3 +2,4 @@ python-telegram-bot
 joblib
 langdetect
 python-dotenv
+scikit-learn
